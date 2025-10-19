@@ -44,6 +44,8 @@ int main()
 ```
 **output**
 <img width="575" height="160" alt="image" src="https://github.com/user-attachments/assets/2cc1a847-974a-48ed-a56b-2eb453965a0d" />
+
+
 **Result:**  
 The program displays all odd numbers from 1 up to the entered number `n`.
 
@@ -81,6 +83,8 @@ int main()
 **output**
 
 <img width="406" height="253" alt="image" src="https://github.com/user-attachments/assets/b0a92da2-3cce-4d7d-8d96-9f8db9d490c4" />
+
+
 **Result:**  
 The program successfully prints a hollow square pattern of stars (`*`) with the given size.
 
@@ -122,6 +126,9 @@ int main()
 **output**
 
 <img width="595" height="87" alt="image" src="https://github.com/user-attachments/assets/cf57ce5b-a598-41ea-9480-27f02306ecf9" />
+
+
+
 **Result:**  
 The program computes and displays the factorial of the entered number using a function with arguments and no return type.
 
@@ -167,6 +174,9 @@ int main()
 **output**
 
 <img width="495" height="133" alt="image" src="https://github.com/user-attachments/assets/ce350c0c-3648-48d4-9a4a-6cf52409d323" />
+
+
+
 **Result:**  
 The program determines and displays whether the given number is a palindrome.
 
@@ -206,6 +216,8 @@ int main()
 **output**
 
 <img width="639" height="139" alt="image" src="https://github.com/user-attachments/assets/453e9fc4-031f-4fb0-ace3-f3170666d1d8" />
+
+
 **Result:**  
 The program prints the complete multiplication table of the user-entered number from 1 to 10 using a do-while loop.
 
