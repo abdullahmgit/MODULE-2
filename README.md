@@ -58,6 +58,7 @@ int main()
 4. Print space for inner positions.
 
 **source code**
+```c
 #include<stdio.h>
 int main()
 {
@@ -75,6 +76,7 @@ int main()
                     }
     return 0;
 }
+```
 **output**
 
 <img width="406" height="253" alt="image" src="https://github.com/user-attachments/assets/b0a92da2-3cce-4d7d-8d96-9f8db9d490c4" />
@@ -92,6 +94,7 @@ int main()
 4. Print the factorial from within the function.
 
 **source code**
+```c
 #include<stdio.h>
 void fact(int num)
 {
@@ -110,6 +113,7 @@ int main()
     fact(n);
     return 0;
 }
+```
 **output**
 
 <img width="595" height="87" alt="image" src="https://github.com/user-attachments/assets/cf57ce5b-a598-41ea-9480-27f02306ecf9" />
@@ -127,6 +131,7 @@ int main()
 4. If all characters/digits match, it is a palindrome; else it is not.
 
 **source code**
+```c
 #include<stdio.h>
 int main()
 {
@@ -148,6 +153,7 @@ int main()
         printf("Not a Palindrome Number");
     }
     return 0;
+```
     
 **output**
 
@@ -167,6 +173,7 @@ int main()
 4. Increment `i` until it reaches 10.
 
 **source code**
+```c
 #include <stdio.h>
 
 int main()
@@ -183,6 +190,7 @@ int main()
  return 0;
 
 }
+```
 
 **output**
 
