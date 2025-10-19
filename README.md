@@ -30,6 +30,7 @@ This repository contains 5 C programs demonstrating concepts such as loops, patt
 4. Print the odd numbers.
 
 **source code**
+```c
 #include<stdio.h>
 int main()
 {
@@ -40,6 +41,7 @@ int main()
     }
     return 0;
 }
+```
 **output**
 <img width="575" height="160" alt="image" src="https://github.com/user-attachments/assets/2cc1a847-974a-48ed-a56b-2eb453965a0d" />
 
